@@ -1,0 +1,11 @@
+2019-10-22T19:42:38,300 [main] INFO  fr.epita.quiz.tests.junit.TestJunit beforeAll()->l.19 - beforeAll
+2019-10-22T19:42:38,304 [main] INFO  fr.epita.quiz.tests.junit.TestJunit prepareForEach()->l.24 - beforeEach
+2019-10-22T19:42:38,304 [main] INFO  fr.epita.quiz.tests.junit.TestJunit firstFailTest()->l.34 - testFail
+2019-10-22T19:42:38,304 [main] INFO  fr.epita.quiz.tests.junit.TestJunit tearDownForEach()->l.46 - afterEach
+2019-10-22T19:42:38,304 [main] INFO  fr.epita.quiz.tests.junit.TestJunit prepareForEach()->l.24 - beforeEach
+2019-10-22T19:42:38,304 [main] INFO  fr.epita.quiz.tests.junit.TestJunit firstSuccessTest()->l.29 - testSucces
+2019-10-22T19:42:38,304 [main] INFO  fr.epita.quiz.tests.junit.TestJunit tearDownForEach()->l.46 - afterEach
+2019-10-22T19:42:38,304 [main] INFO  fr.epita.quiz.tests.junit.TestJunit prepareForEach()->l.24 - beforeEach
+2019-10-22T19:42:38,304 [main] ERROR fr.epita.quiz.tests.junit.TestJunit firstErrorTest()->l.39 - testError
+2019-10-22T19:42:38,304 [main] INFO  fr.epita.quiz.tests.junit.TestJunit tearDownForEach()->l.46 - afterEach
+2019-10-22T19:42:38,304 [main] INFO  fr.epita.quiz.tests.junit.TestJunit afterAll()->l.51 - afterAll
